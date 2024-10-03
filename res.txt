@@ -1,0 +1,27 @@
+Compilation Exception
+	Caused by Syntax error at line 1 in Programs Folder/program2: Expected <statement list> between 'begin' and 'end' but found 'begim'.
+	Caused by Syntax error at line 1 in Programs Folder/program2: Expected 'begin' but found 'begim'.
+
+Compilation Exception
+	Caused by Syntax error at line 11 in Programs Folder/program3: Expected <statement list> between 'begin' and 'end' but found ''.
+	Caused by Syntax error at line 11 in Programs Folder/program3: Expected <statement list> but found ''.
+	Caused by Syntax error at line 11 in Programs Folder/program3: Expected <statement list> but found ''.
+	Caused by Syntax error at line 11 in Programs Folder/program3: Expected <statement list> but found ''.
+	Caused by Syntax error at line 11 in Programs Folder/program3: Expected  <assignment>, <if>, <while>, <procedure>, <until>, or <for> but found ''.
+	Caused by Syntax error at line 11 in Programs Folder/program3: Expected 'if' but found ''.
+
+Compilation Exception
+	Caused by Syntax error at line 7 in Programs Folder/program5: Expected <statement list> between 'begin' and 'end' but found ';'.
+	Caused by Syntax error at line 7 in Programs Folder/program5: Expected <statement list> but found ';'.
+	Caused by Syntax error at line 7 in Programs Folder/program5: Expected <statement list> but found ';'.
+	Caused by Syntax error at line 7 in Programs Folder/program5: Expected <statement list> but found ';'.
+	Caused by Syntax error at line 7 in Programs Folder/program5: Expected  <assignment>, <if>, <while>, <procedure>, <until>, or <for> but found ';'.
+	Caused by Syntax error at line 7 in Programs Folder/program5: Expected 'loop' but found ';'.
+
+Compilation Exception
+	Caused by Syntax error at line 4 in Programs Folder/program7: Expected <statement list> between 'begin' and 'end' but found 'else'.
+	Caused by Syntax error at line 4 in Programs Folder/program7: Expected 'end' but found 'else'.
+
+Compilation Exception
+	Caused by Syntax error at line 12 in Programs Folder/program8: Expected 'EOF' but found 'call'.
+
